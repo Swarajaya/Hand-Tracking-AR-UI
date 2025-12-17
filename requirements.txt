@@ -1,0 +1,9 @@
+python 3.9 or 3.10
+
+IDE (VSCode, PyCharm, or Jupyter Notebook)
+
+OpenCV for video capture and drawing UI elements
+
+Mediapipe for hand tracking
+
+Numpy for calculations
